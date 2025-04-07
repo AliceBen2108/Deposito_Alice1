@@ -1,2 +1,3 @@
 # Deposito_Alice1
-Qui c'è la descrizione
+
+Sono Alice Benetel. Qui caricherò tutti gli script che creerò e i dati di riferimento.
