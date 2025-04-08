@@ -7,7 +7,7 @@ virgola = float(input("inserisci un numero con la virgola"))
 
 # Tipo semantico
 stringa = input("inserisci una parola")
-Metodi
+# Metodi
 s = "ciao, mondo!"
 print(len(s))
 print(s.lower())
