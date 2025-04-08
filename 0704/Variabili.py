@@ -1,4 +1,4 @@
-# # Tipo numerico
+# Tipo numerico
 intero = 10
 numero_con_la_virgola = 5.5 # la virgola nei linguaggi di programmazione si fa con il punto
 
