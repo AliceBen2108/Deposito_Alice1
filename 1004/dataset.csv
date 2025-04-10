@@ -1,0 +1,8 @@
+,nome,età,città,salario,categoria età
+0,Alice,0.0,Roma,1000.0,giovane
+1,Bob,46.5,None,9166.0,adulto
+2,Carla,26.0,Napoli,17333.0,giovane
+3,None,40.0,Milano,25499.5,adulto
+4,Carla,53.0,Napoli,33666.0,adulto
+5,Alice,66.0,Roma,41833.0,senior
+6,Bob,80.0,Roma,50000.0,senior
